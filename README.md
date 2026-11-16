@@ -202,5 +202,5 @@ Undefended CNNs collapse under PGD, as already documented for computational path
 
 ## Authors and acknowledgements
 
-Anika Jalan, Aindrila Kundu, Department of Computer Science, Netaji Subhas University of Technology, Delhi. Thanks to the creators of BreaKHis (P&D Laboratory, Paraná, Brazil).
+Nandini Nautiyal,Anika Jalan, Aindrila Kundu, Department of Computer Science, Netaji Subhas University of Technology, Delhi. Thanks to the creators of BreaKHis (P&D Laboratory, Paraná, Brazil).
 
